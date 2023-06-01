@@ -19,6 +19,7 @@
 
 #include <set>
 #include <vector>
+#include <stdexcept>
 
 namespace ariel
 {
